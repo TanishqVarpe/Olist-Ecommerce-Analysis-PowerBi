@@ -99,7 +99,7 @@ The raw CSV files are in the [`data/`](data/) folder.
 
 The model is a star-style schema with **Orders** as the central hub.
 
-![Data Model](screenshots/04-data-model.png)
+![Data Model](Screenshots/04-data-model.png)
 
 | Relationship | Cardinality |
 |---|---|
@@ -192,7 +192,7 @@ Seller Label = "Seller " & RIGHT(Sellers[seller_id], 4)
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01-executive-overview.png)
+![Executive Overview](Screenshots/01-executive-overview.png)
 
 | KPI | Value |
 |---|---|
@@ -205,11 +205,11 @@ Seller Label = "Seller " & RIGHT(Sellers[seller_id], 4)
 
 ### 2. Delivery & Satisfaction
 
-![Delivery and Satisfaction](screenshots/02-delivery-satisfaction.png)
+![Delivery and Satisfaction](Screenshots/02-delivery-satisfaction.png)
 
 ### 3. Seller Scorecard
 
-![Seller Scorecard](screenshots/03-seller-scorecard.png)
+![Seller Scorecard](Screenshots/03-seller-scorecard.png)
 
 **Interactivity:** a synced **Year** slicer, a **state** slicer on page 1, cross-filtering between visuals, and a page navigator on every page.
 
@@ -272,6 +272,6 @@ olist-ecommerce-analysis-powerbi/
 ## Author
 
 **Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+[GitHub](https://github.com/TanishqVarpe) · [LinkedIn](https://www.linkedin.com/in/tanishq-varpe/)
 
 *Built as part of a Business Intelligence course mini-project series.*
